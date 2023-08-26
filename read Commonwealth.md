@@ -19,4 +19,11 @@ Type ```local-string == (2)```
 
 -----------------
 - End
-(Full Documentary At Here)[https://github.com/BombaUnited123/junkit-extension/edit/main/read%20Commonwealth.md]
+
+-----------------
+# Wanna Full Thing?
+> # Do This
+
+This One Link VV
+
+[Full Documentary At Here](https://github.com/BombaUnited123/junkit-extension/edit/main/read%20Commonwealth.md)
