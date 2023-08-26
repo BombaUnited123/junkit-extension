@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://cdnjs.com"><img src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/standard/dark-512.png" width="175px" alt="< cdnjs >"></a>
+    <a href="https://cdnjs.com"><img src="https://cdn.discordapp.com/attachments/1142398615155920940/1144848369064362085/Untitled402_20230826111722.png" width="175px" alt="< cdnjs >"></a>
 </h1>
 
 > # How To Put Junkit On Unity
