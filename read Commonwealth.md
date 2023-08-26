@@ -26,4 +26,8 @@ Type ```local-string == (2)```
 
 This One Link VV
 
-[Full Documentary At Here](https://github.com/BombaUnited123/junkit-extension/edit/main/read%20Commonwealth.md)
+[ Full Documentary At Here](https://github.com/BombaUnited123/junkit-extension/edit/main/read%20Commonwealth.md)
+
+# © Copyrighted By Github Staff 2023
+> All Be Success
+-----------------
