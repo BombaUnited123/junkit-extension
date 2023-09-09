@@ -1,0 +1,53 @@
+<LinearLayout
+
+	xmlns:android="http://schemas.android.com/apk/res/android"
+
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="168dp"
+		android:padding="4dp"
+		android:gravity="center_horizontal|center_vertical"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/linear2"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:gravity="center_horizontal|bottom"
+			android:orientation="horizontal">
+			<ImageView
+				android:id="@+id/imageview1"
+				android:layout_width="60dp"
+				android:layout_height="60dp"
+				android:background="#F44336"
+				android:src="@drawable/a128x128"
+				android:scaleType="center" />
+			<TextView
+				android:id="@+id/textview1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:background="#D50000"
+				android:text="Error Found Them!"
+				android:textSize="14sp"
+				android:textStyle="bold"
+				android:textColor="#F5F5F5" />
+		</LinearLayout>
+		<Button
+			android:id="@+id/button1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:background="#4CAF50"
+			android:text="Delete My Apps And Fix It!"
+			android:textSize="12sp"
+			android:textColor="#E0E0E0" />
+	</LinearLayout>
+</LinearLayout>
+
